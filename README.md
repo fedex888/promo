@@ -1,4 +1,4 @@
-# 🧥 Buzo Promo 2026 · Alvaredo
+# 🧥 Buzo Promo 2026
 
 Página web para mostrar y votar el buzo de la Promo 2026.  
 Cada visitante puede dar un 👍 o 👎 al **frente** y a la **espalda** del buzo (un voto por lado, por sesión).
